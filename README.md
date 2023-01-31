@@ -6,3 +6,6 @@ By incorporating multithreading synchronization and thread suspension, the game 
 
 ## Story
 You are a merchant from distant lands who suddenly finds yourself waking up after being robbed and beaten. Through the course of the game, you uncover the identity of your thief and embark on a journey to reclaim your stolen goods. Explore the world, battle against foes, and ultimately regain what is rightfully yours.
+
+
+![alt text](https://i.imgur.com/B26Wo2K.png)
